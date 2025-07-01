@@ -35,4 +35,4 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 - Frontend Mentor - [@Innocent-Leo](https://www.frontendmentor.io/profile/Innocent-Leo)
 - Twitter - [@itz_saintleo](https://www.twitter.com/itz_saintleo)
-- LinkedIn - [@Innocent-Okeke](https://www.linkedin.com/in/innocent-okeke)
+- LinkedIn - [@Innocent-Okeke](https://www.linkedin.com/in/innocentokeke)
